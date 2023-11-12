@@ -1,5 +1,5 @@
 # daa35
-trabalho de daa
+DAA's Project in python G35
 
 # Página da competição
 https://www.kaggle.com/competitions/daasbstp2023/data?select=meteo_202109-202112.csv
